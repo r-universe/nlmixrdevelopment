@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "n1qn1"]
+	path = n1qn1
+	url = https://github.com/nlmixrdevelopment/n1qn1c
+	shallow = true
+	registered = true
+[submodule "nlmixr"]
+	path = nlmixr
+	url = https://github.com/nlmixrdevelopment/nlmixr
+	shallow = true
+	registered = true
+[submodule "RxODE"]
+	path = RxODE
+	url = https://github.com/nlmixrdevelopment/rxode
+	shallow = true
+	registered = true

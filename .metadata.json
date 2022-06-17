@@ -1,0 +1,14 @@
+[
+  {
+    "package": "n1qn1",
+    "oncran": true
+  },
+  {
+    "package": "nlmixr",
+    "oncran": true
+  },
+  {
+    "package": "RxODE",
+    "oncran": true
+  }
+]
